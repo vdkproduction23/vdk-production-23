@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>VDK PRODUCTION 23</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<style>
+body {
+  margin:0;
+  font-family: Arial, sans-serif;
+  background:black;
+  color:white;
+}
+
+/* HERO */
+.hero {
+  height:100vh;
+  background:url('https://via.placeholder.com/1200x800') center/cover no-repeat;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  text-align:center;
+}
+
+.hero h1 {
+  font-size:40px;
+  letter-spacing:3px;
+}
+
+.hero p {
+  font-size:18px;
+}
+
+.btn {
+  padding:12px 25px;
+  margin:10px;
+  background:gold;
+  border:none;
+  cursor:pointer;
+  font-weight:bold;
+}
+
+/* SECTIONS */
+.section {
+  padding:50px 20px;
+  text-align:center;
+}
+
+h2 {
+  color:gold;
+}
+
+/* GALLERY */
+.gallery img {
+  width:90%;
+  max-width:300px;
+  margin:10px;
+  border-radius:10px;
+}
+
+/* FOOTER */
+.footer {
+  padding:20px;
+  text-align:center;
+  background:#111;
+  font-size:14px;
+}
+</style>
+
+</head>
+
+<body>
+
+<!-- HERO -->
+<div class="hero">
+  <div>
+    <h1>VDK PRODUCTION 23</h1>
+    <p>Talented Ghost — Polla B</p>
+    <p>Music • Photography • Talent Scouting</p>
+
+    <a href="https://youtube.com/@pollab23vdkprod" target="_blank">
+      <button class="btn">▶ Watch</button>
+    </a>
+
+    <a href="https://www.reverbnation.com/pollab8" target="_blank">
+      <button class="btn">🎧 Listen</button>
+    </a>
+  </div>
+</div>
+
+<!-- ABOUT -->
+<div class="section">
+  <h2>About</h2>
+  <p>
+    Polla B, also known as Talented Ghost, is a South African creative visionary behind VDK PRODUCTION 23.
+    Blending music, photography, and storytelling, he is building a platform to discover and elevate talent.
+  </p>
+</div>
+
+<!-- MUSIC -->
+<div class="section">
+  <h2>Music</h2>
+  <p><strong>Stay Woke — Madgas ft. Polla B</strong></p>
+
+  <a href="https://youtube.com/@pollab23vdkprod" target="_blank">
+    <button class="btn">Watch on YouTube</button>
+  </a>
+
+  <a href="https://www.reverbnation.com/pollab8" target="_blank">
+    <button class="btn">Listen on ReverbNation</button>
+  </a>
+</div>
+
+<!-- PHOTOGRAPHY -->
+<div class="section">
+  <h2>VDK PHOTOGRAPHY</h2>
+  <p>By Paulton J. Jacobs</p>
+
+  <p>
+    Capturing real moments, real energy, and real stories through the lens.
+  </p>
+
+  <p><strong>VDK PHOTOGRAPHY BY PAULTON J. JACOBS</strong></p>
+  <p><strong>VDK PRODUCTION 23</strong></p>
+
+  <div class="gallery">
+    <img src="https://via.placeholder.com/300" />
+    <img src="https://via.placeholder.com/300" />
+    <img src="https://via.placeholder.com/300" />
+  </div>
+</div>
+
+<!-- SCOUT -->
+<div class="section">
+  <h2>Get Discovered</h2>
+  <p>
+    VDK PRODUCTION 23 is building the next generation of South African talent.
+    If you have talent, this is your chance.
+  </p>
+
+  <p><strong>Send your music and be part of the movement.</strong></p>
+</div>
+
+<!-- SOCIAL -->
+<div class="section">
+  <h2>Connect</h2>
+
+  <p>📸 Instagram
+
+https://via.placeholder.com/1200x800
